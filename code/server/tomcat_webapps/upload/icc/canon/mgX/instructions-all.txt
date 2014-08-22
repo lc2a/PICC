@@ -1,0 +1,74 @@
+Red River Paper Color Profiles
+
+Canon ip4820
+PIXMA MG5120 
+PIXMA MG5220 
+PIXMA MG6120 
+PIXMA MG8120 
+
+Master Printer Setting List
+
+
+Paper: Polar Pearl Metallic
+Paper: UltraPro Gloss
+Paper: Arctic Polar Gloss
+Paper: Pecos River Gloss
+Paper: Cordovan Textured Gloss
+Paper: Premium Gloss
+
+
+Recommended Media Setting: Photo Paper Plus Glossy
+
+Quality: Best (2)
+
+Color / Intensity: Manual 
+Matching: None
+
+====================================================
+
+Paper: Polar Matte
+Paper: Premium Matte
+Paper: Paper Canvas
+Paper: River Linen
+Paper: GreenPix Photo Matte
+Paper: Aurora Art Natural
+Paper: Aurora Art White
+
+
+Recommended Media Setting: Matte Photo Paper
+
+Quality: Best (2)
+
+Color / Intensity: Manual 
+Matching: None
+
+====================================================
+
+Paper: Zeppelin SemiGloss
+Paper: Arctic Polar Satin
+Paper: Arctic Polar Luster
+Paper: UltraPro Satin
+
+
+Recommended Media Setting: Photo Paper Plus Semi gloss
+
+Quality: Best (2)
+
+Color / Intensity: Manual 
+Matching: None
+
+
+*** More Profile Information ***
+
+Go to www.redriverpaper.com/profiles for help, information, and more.
+
+How to install profiles: www.redriverpaper.com/installprofiles
+
+How to use profiles: www.redriverpaper.com/useprofiles
+
+
+*** Contact Red River Paper ***
+
+customerservice@redriverpaper.com
+888-248-8774
+
